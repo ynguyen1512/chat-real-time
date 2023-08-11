@@ -1,0 +1,56 @@
+[debug] [2023-08-08T15:07:45.913Z] ----------------------------------------------------------------------
+[debug] [2023-08-08T15:07:45.916Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\nguye\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-08-08T15:07:45.916Z] CLI Version:   12.4.7
+[debug] [2023-08-08T15:07:45.917Z] Platform:      win32
+[debug] [2023-08-08T15:07:45.917Z] Node Version:  v18.17.0
+[debug] [2023-08-08T15:07:45.918Z] Time:          Tue Aug 08 2023 22:07:45 GMT+0700 (Indochina Time)
+[debug] [2023-08-08T15:07:45.919Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-08-08T15:07:45.926Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2023-08-08T15:07:46.150Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-08-08T15:07:46.151Z] > authorizing via signed-in user (nguyenphuyfgw@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\nguye\Desktop\Workspace\reactjs\chat-real-time
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[debug] [2023-08-08T15:07:47.828Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2023-08-08T15:07:47.829Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
+[debug] [2023-08-09T15:20:47.659Z] ----------------------------------------------------------------------
+[debug] [2023-08-09T15:20:47.661Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\nguye\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-08-09T15:20:47.662Z] CLI Version:   12.4.7
+[debug] [2023-08-09T15:20:47.663Z] Platform:      win32
+[debug] [2023-08-09T15:20:47.663Z] Node Version:  v18.17.0
+[debug] [2023-08-09T15:20:47.667Z] Time:          Wed Aug 09 2023 22:20:47 GMT+0700 (Indochina Time)
+[debug] [2023-08-09T15:20:47.670Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-08-09T15:20:47.676Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2023-08-09T15:20:47.879Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-08-09T15:20:47.883Z] > authorizing via signed-in user (nguyenphuyfgw@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\nguye\Desktop\Workspace\reactjs\chat-real-time
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[debug] [2023-08-09T15:20:48.392Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2023-08-09T15:20:48.393Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
